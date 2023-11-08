@@ -1,0 +1,73 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.psess
+*.vsp
+*.vshost.exe
+*.vshost.exe.config
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.exe
+*.resx
+*.resources
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/*.log
+
+# Click-Once
+publish/
+
+# Publish Web Output
+*.Publish.xml
+*.pubxml
+*.pubxml.user
